@@ -39,17 +39,14 @@
 
 ## Tecnología utilizada
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
+Desarrollo con JavaScript, Html y CSS
 
 ###
 
 ## Acceso a la aplicación
 
-Você pode [acessar o código fonte do projeto](https://github.com/manuelmontealegre) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+(https://github.com/ManuelMontealegre/Amigo-Secreto).
 
 ## Desarrollador
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Manuel Montealegre</sub>](https://github.com/manuelmontealegre) |
-| :---: | :---: 
+Manuel Montealegre Bejarano
