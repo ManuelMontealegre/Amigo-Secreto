@@ -39,7 +39,7 @@ function sortearAmigo() {
         alert("No hay amigos para sortear");
         return;
     }
-    // 
+    // Escoger amigo secreto al azar
     let amigoSecreto = arregloAmigos[Math.floor(Math.random() * arregloAmigos.length)];
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = `El amigo secreto es: ${amigoSecreto}`;
